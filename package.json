@@ -11,7 +11,7 @@
     "url": "https://snowcxt.visualstudio.com/_git/ValtaRealty"
   },
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "4.15.2"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
